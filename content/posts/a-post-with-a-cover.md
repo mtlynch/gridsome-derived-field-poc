@@ -1,5 +1,6 @@
 ---
 title: A post with a cover image
+title_starts_with_letter_a_explicit: true
 date: 2019-01-07
 published: true
 tags: ['Markdown', 'Cover Image']

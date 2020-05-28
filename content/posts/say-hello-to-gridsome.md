@@ -1,5 +1,6 @@
 ---
 title: Say hello to Gridsome 🎉
+title_starts_with_letter_a_explicit: false
 date: 2019-02-07
 tags: ['Markdown', 'Releases']
 canonical_url: false
